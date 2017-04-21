@@ -59,6 +59,6 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 1. Goto `pywin32-221.win32-py2.6\SCRIPTS` and run `python pywin32_postinstall.py -install`
 
 # Usage
-```
+```winbatch
 C:\shadowbroker-master\windows\python fb.py
 ```
