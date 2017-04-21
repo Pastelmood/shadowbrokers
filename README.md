@@ -51,3 +51,9 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - [Python 2.6 x86](https://www.python.org/download/releases/2.6/)
 - [Pywin 2.6 x86](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/)
 ### Install
+1. Setup Python 2.6
+1. Add `C:\Python26` to Path variable in System variables.
+1. Extract `pywin32-221.win32-py2.6.exe` with WinRAR.
+1. Copy everythings in `pywin32-221.win32-py2.6\PLATLIB` to `C:\Python26\Lib\site-packages`
+1. Open `Command Prompt` with administrator.
+1. Goto `pywin32-221.win32-py2.6\SCRIPTS` and run > python pywin32_postinstall.py -install
