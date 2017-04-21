@@ -46,7 +46,7 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 
 # Installation
 
-## Requirement
+### Requirement
 	- [Microsoft Windows 7 x86](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 	- [Python 2.6 x86](https://www.python.org/download/releases/2.6/)
 	- [Pywin 2.6 x86](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/)
