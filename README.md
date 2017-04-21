@@ -56,7 +56,9 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 1. Extract `pywin32-221.win32-py2.6.exe` with WinRAR.
 1. Copy everythings in `pywin32-221.win32-py2.6\PLATLIB` to `C:\Python26\Lib\site-packages`
 1. Open `Command Prompt` with administrator.
-1. Goto `pywin32-221.win32-py2.6\SCRIPTS` and run 
- ```
- python pywin32_postinstall.py -install`
- ```
+1. Goto `pywin32-221.win32-py2.6\SCRIPTS` and run `python pywin32_postinstall.py -install`
+
+# Usage
+```
+C:\shadowbroker-master\windows\python fb.py
+```
